@@ -35,7 +35,7 @@ export default function Home() {
         <p className="text-xs sm:text-xs text-center sm:text-center">
           {" "}
           **To claim a free website send us an email with subject line &quot;
-          <strong>FREE WEBSITE</strong>&quot; button clicking the button above**
+          <strong>FREE WEBSITE</strong>&quot; by clicking the button above**
         </p>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
